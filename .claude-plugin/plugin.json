@@ -1,0 +1,8 @@
+{
+  "name": "stack-playbook",
+  "displayName": "Dev Stack Playbook",
+  "description": "Interactive, learning-oriented walkthrough for choosing, setting up and tracking a project's tech stack: hosting, framework, database, auth, payments, testing, CI and more.",
+  "author": { "name": "Rishi Kothari" },
+  "repository": "https://github.com/rishipkothari/dev-stack-playbook",
+  "keywords": ["stack", "architecture", "deployment", "learning", "planning"]
+}
